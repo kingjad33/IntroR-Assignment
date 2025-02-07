@@ -1,5 +1,5 @@
 # IntroR-Assignment
-#IntroR assignment for Rep Science Class 2/07/2025
+#IntroR assignment for Rep Science Class
 
 z = c(1:200) #create vector 1 to 200
 mean(z) #mean = 100.5
@@ -29,6 +29,7 @@ zdf[zdf$zsquared >10 & zdf$zsquared <100,]
 #subset dataframe to get only row 26 ([row,column])
 zdf[26,]
 
-#subset dataframe to get only colum zsquared (column 3) in row 180 ([row,column])
+#subset dataframe to get only column zsquared (column 3) in row 180 ([row,column])
 zdf[180,3]
+
 

@@ -1,5 +1,5 @@
 # IntroR-Assignment
-#IntroR assignment for Rep Science Class
+#IntroR assignment for Rep Science Class 2/07/2025
 
 z = c(1:200) #create vector 1 to 200
 mean(z) #mean = 100.5
